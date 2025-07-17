@@ -1,6 +1,4 @@
-# Elevate Labs - Task 3
 
-This repository contains the solution to **Task 3** from the Elevate Labs assignment.
 
 ## 📌 Overview
 
